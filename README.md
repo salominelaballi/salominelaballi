@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salominelaballi
-- 👀 I’m interested in developing cool websites 
-- 🌱 I’m currently learning html , css , Javascript, git, github 
+- 👀 I’m interested in developing websites 
+- 🌱 I’m currently working on html , css , Javascript, git, github 
 - 💞️ I’m looking to collaborate on any front end developing projects
 - 📫 Reach me at salomisindhu.33@gmail.com 
 
